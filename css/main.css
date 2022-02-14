@@ -1,6 +1,7 @@
 :root{
     --color-primary: var(--gray-text);
     --color-secondary: #fb641b;
+    --btn-active: rgb(6, 27, 48);
 }
 
 nav{
